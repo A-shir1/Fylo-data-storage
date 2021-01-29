@@ -57,6 +57,7 @@ body{
       transform: translateY(-0.3rem);
       background-color: #000058;
       cursor: pointer;
+      box-shadow: 0 0.15rem 0.5rem 0 #000058;
 }
 
 .logo, .files{
